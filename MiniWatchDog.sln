@@ -5,16 +5,27 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniWatchDog", "MiniWatchDog\MiniWatchDog.csproj", "{67F32718-E0B6-4210-96E9-C56A68E02640}"
 EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "SetupProject", "SetupProject\SetupProject.aiproj", "{84764ACF-1E6B-4239-9188-84FDC956DB09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{67F32718-E0B6-4210-96E9-C56A68E02640}.Debug|Any CPU.ActiveCfg = Release|Any CPU
 		{67F32718-E0B6-4210-96E9-C56A68E02640}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{67F32718-E0B6-4210-96E9-C56A68E02640}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F32718-E0B6-4210-96E9-C56A68E02640}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
 		{67F32718-E0B6-4210-96E9-C56A68E02640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F32718-E0B6-4210-96E9-C56A68E02640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84764ACF-1E6B-4239-9188-84FDC956DB09}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{84764ACF-1E6B-4239-9188-84FDC956DB09}.Debug|Any CPU.Build.0 = DefaultBuild
+		{84764ACF-1E6B-4239-9188-84FDC956DB09}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{84764ACF-1E6B-4239-9188-84FDC956DB09}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{84764ACF-1E6B-4239-9188-84FDC956DB09}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{84764ACF-1E6B-4239-9188-84FDC956DB09}.Release|Any CPU.Build.0 = DefaultBuild
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
