@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniWatchDog", "MiniWatchDog\MiniWatchDog.csproj", "{67F32718-E0B6-4210-96E9-C56A68E02640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniWatchDog", "MiniWatchDog\MiniWatchDog.csproj", "{67F32718-E0B6-4210-96E9-C56A68E02640}"
 EndProject
 Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "SetupProject", "SetupProject\SetupProject.aiproj", "{84764ACF-1E6B-4239-9188-84FDC956DB09}"
 EndProject
